@@ -1,0 +1,7 @@
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe.config
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.exe
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\bin\Debug\PrimeNumberGenerator.pdb
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.exe
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.pdb
+C:\Users\SLIM\source\repos\PrimeNumberGenerator\PrimeNumberGenerator\obj\Debug\PrimeNumberGenerator.csprojAssemblyReference.cache

@@ -16,6 +16,7 @@ namespace PrimeNumberGenerator
             Console.WriteLine("1: Prime Number Printer With Limit");
             Console.WriteLine("2. Prime Number Printer With Range");
             Console.WriteLine("3. Prime Number Checker");
+            Console.Write("enter required program: ");
 
             int choice;
             if(!int.TryParse(Console.ReadLine(),out choice))
